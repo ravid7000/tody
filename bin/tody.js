@@ -5,11 +5,9 @@ const fs = require("fs");
 const path = require("path");
 const programOptions = require("../lib/options");
 const createTask = require("../lib/createTask");
+const { readPackageFile } = require("../lib/readConfig");
 
-const readFile = file =>
-  fs.readFileSync(path.join(process.cwd(), file), "utf8");
-
-const getPkg = (() => JSON.parse(readFile("./package.json")))();
+const getPkg = (() => JSON.parse(readPackageFile()))();
 
 const main = () => {
   const program = programOptions(new commander.Command())

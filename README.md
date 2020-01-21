@@ -12,6 +12,4 @@ npm i tody -g
 
 Enter as many things as you want to get done with a simple command. Just type `tody` in your terminal.
 
-```sh
-tody
-```
+![demo](./static/demo.gif)
