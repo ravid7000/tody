@@ -1,0 +1,24 @@
+{
+  "name": "tody",
+  "version": "0.0.1",
+  "description": "Plan 3 Main Tasks",
+  "main": "./bin/tody.js",
+  "bin": "./bin/tody.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "tasks",
+    "plan",
+    "today"
+  ],
+  "author": "Ravi Dhiman",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "clipboardy": "^2.1.0",
+    "commander": "^4.1.0",
+    "inquirer": "^7.0.3",
+    "node-emoji": "^1.10.0"
+  }
+}
