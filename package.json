@@ -1,6 +1,6 @@
 {
   "name": "tody-cli",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Plan 3 Main Tasks",
   "main": "./bin/tody.js",
   "bin": "./bin/tody.js",
