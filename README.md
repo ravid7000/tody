@@ -1,8 +1,6 @@
-# Tody
+![tody](https://raw.githubusercontent.com/ravid7000/tody/master/static/tody.png)
 
 ## Note things done without leaving your terminal.
-
-![tody](https://raw.githubusercontent.com/ravid7000/tody/master/static/tody.png)
 
 Make note of everything you want to get done using command line.
 

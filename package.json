@@ -12,6 +12,10 @@
   "homepage": "https://ravid7000.github.io/tody/",
   "author": "Ravi Dhiman",
   "license": "MIT",
+  "repository": {
+    "url": "https://github.com/ravid7000/tody",
+    "type": "git"
+  },
   "dependencies": {
     "chalk": "^3.0.0",
     "clipboardy": "^2.1.0",
