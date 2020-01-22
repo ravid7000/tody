@@ -1,17 +1,15 @@
 {
-  "name": "tody",
+  "name": "tody-cli",
   "version": "0.0.1",
   "description": "Plan 3 Main Tasks",
   "main": "./bin/tody.js",
   "bin": "./bin/tody.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
   "keywords": [
     "tasks",
     "plan",
     "today"
   ],
+  "homepage": "https://ravid7000.github.io/tody/",
   "author": "Ravi Dhiman",
   "license": "MIT",
   "dependencies": {
