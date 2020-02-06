@@ -12,4 +12,4 @@ npm i tody-cli -g
 
 Enter as many things as you want to get done with a simple command. Just type `tody` in your terminal.
 
-![demo](https://raw.githubusercontent.com/ravid7000/tody/master/static/demo.gif)
+![demo](https://raw.githubusercontent.com/ravid7000/tody/master/static/demo1.gif)
