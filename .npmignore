@@ -1,6 +1,4 @@
 .DS_Store
 .vscode
 dist/
-config/location.tody
-template/template.tody
 _config.yml
