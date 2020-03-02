@@ -106,3 +106,4 @@ dist
 .tern-port
 
 config/location.tody
+template/template.tody

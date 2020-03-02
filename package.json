@@ -9,6 +9,9 @@
     "plan",
     "today"
   ],
+  "scripts": {
+    "postinstall": "node ./lib/post-install.js"
+  },
   "homepage": "https://ravid7000.github.io/tody/",
   "author": "Ravi Dhiman",
   "license": "MIT",
